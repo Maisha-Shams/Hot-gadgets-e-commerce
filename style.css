@@ -1,0 +1,82 @@
+.container{
+    margin-bottom: 100px;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 9px 25px;
+}
+header{
+    background: url("images/bg-2.png") no-repeat;
+    background-size: 100px 100px;
+    background-position: left bottom;
+    padding: 20px;
+
+}
+main{
+    margin-top: 30px;
+}
+
+.carousel-item{
+    background: url("images/bg-1.png") no-repeat center;
+    background-size: contain;
+}
+
+main h6{
+    color:rgb(245, 113, 24);
+    margin-right: 3px;
+}
+.phone-cards{
+    margin-top: 20px;
+}
+p{
+    color: gray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    border-radius: 10px;
+    
+}
+.card img{
+    width: 270px;  
+    padding-top:20px ; 
+    padding-left: 90px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-text, h5{
+    text-align: center;
+}
+.pro-head{
+    margin-left: 5px;
+}
+.categories h2{
+    text-align: center;
+    text-decoration: underline solid rgb(255, 81, 0) 5px;
+    
+}
+.catbottom{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.cat{
+    margin-right:100px ;
+}
+footer{
+    text-align: center;
+}
+
+
+    
+
